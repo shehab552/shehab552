@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shehab Mtwan</h1>
+<h3 align="center">Full Stack Developer | Django • Flutter • Python</h3>
 
-<!--
-**shehab552/shehab552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building modern web and mobile applications with clean code and modern technologies.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🌱 Currently learning advanced Django & Flutter
+- 🚀 Passionate about building real-world applications
+- 📍 Sana'a, Yemen
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,django,flutter,dart,html,css,js,bootstrap,sqlite,mysql,git,github,vscode" />
+
+</p>
